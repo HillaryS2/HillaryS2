@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @HillaryS2
-- Tenho 15 anos. 
+# sobre mim 
+-Olá ,sou @HillaryS2 
+- Tenho 15 anos.
 - 🌱 Atualmente estou aprendendo códigos de programação.
 - 💞️ Estou tentando sempre dar meu melhor.
 <!---
